@@ -3,7 +3,7 @@
 ## ReactJs
   is a library to build user interfaces based on components using Virtual DOM and JSX
 - Maintainer: Meta (Facebook)
-    - PROS: Big comunity and lib, Freedom on development base on own architecture design with pure javasript and JSX
+    - PROS: Wide comunity and lib, Freedom on development base on own architecture design with pure javasript and JSX
     - CONS: Learning curve, design own architecture, mostly is building from sratch
 
 ### Framework
@@ -20,6 +20,8 @@
 ### UI 
 - Antd: https://github.com/ant-design/ant-design or https://d.umijs.org
   - Antd Pro Components: https://procomponents.ant.design/en-US
+
+- MUI: https://mui.com/
 
 ### DOCS
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
