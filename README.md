@@ -81,6 +81,12 @@ Let's embark on this exciting journey together and elevate your front-end develo
 
 ### State Management
 
+- Context API: 
+
+  - React Context
+    
+  - Hox
+
 - Flux: unidirectional data flow pattern
 
    - Redux: https://redux.js.org/
