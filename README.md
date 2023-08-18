@@ -26,6 +26,18 @@ Let's embark on this exciting journey together and elevate your front-end develo
  - Supercharged productivity
    - Raycast: https://www.raycast.com/
 
+## HTML
+
+## CSS
+
+ - Framework
+
+   - Taliwind: 
+
+   - Sass: 
+
+   - Less: 
+
 ## ReactJs
   is a library to build user interfaces based on components using Virtual DOM and JSX
 - Maintainer: Meta (Facebook)
