@@ -69,26 +69,27 @@ Let's embark on this exciting journey together and elevate your front-end develo
 
 - Flux: unidirectional data flow pattern
 
-  - Redux: https://redux.js.org/
-  - Zustand: https://github.com/pmndrs/zustand
+   - Redux: https://redux.js.org/
+   - Zustand: https://github.com/pmndrs/zustand
 
 - Proxy
 
- - Valtio: https://github.com/pmndrs/valtio
- - Mobx: https://mobx.js.org/
+   - Valtio: https://github.com/pmndrs/valtio
+   - Mobx: https://mobx.js.org/
 
 - Atomic
 
- - Jotai: https://jotai.org/
- - Recoil: https://recoiljs.org/
+  - Jotai: https://jotai.org/
+  - Recoil: https://recoiljs.org/
 
 ### DOCS
 
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
-  - Theme: https://github.com/umijs/dumi
+   - Theme: https://github.com/umijs/dumi
     - Antd v5: https://github.com/KuangPF/dumi-theme-antd
 
 - Docusaurus: https://docusaurus.io/
+
 - Srorybook: https://storybook.js.org/
 
 - Gitbook: https://www.gitbook.com/
