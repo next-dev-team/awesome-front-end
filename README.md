@@ -6,7 +6,7 @@
 - UmiJS: https://github.com/umijs/umi or https://umijs.org
   - USE CASE: Client side or Admin dashbord
     - PROS: fast development and well document
-    - CONS: need to learning about it and some case diffical to customize
+    - CONS: Learning curve and some case difficult to customize
 
 - NextJS: https://github.com/vercel/next.js or https://nextjs.org
 
