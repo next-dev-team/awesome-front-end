@@ -23,6 +23,10 @@
 
 - MUI: https://mui.com/
 
+- NextUI: https://nextui.org/
+
+- Chakra: https://chakra-ui.com/
+
 ### DOCS
 - Dumi: https://github.com/umijs/dumi or https://d.umijs.org
   - Theme: https://github.com/umijs/dumi
