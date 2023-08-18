@@ -23,8 +23,22 @@ Please note that this repository is continuously updated to ensure it remains re
 Let's embark on this exciting journey together and elevate your front-end development skills to the next level!
 
 ## Development Tools
- - Supercharged productivity
+
+- Supercharged productivity
+  
    - Raycast: https://www.raycast.com/
+ 
+- IDE
+  
+  - Vs code:
+ 
+  - Web Storm: 
+
+- GIT:
+
+  - Github:
+    
+  - Gitlab:
 
 ## HTML
 
