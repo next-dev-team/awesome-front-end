@@ -43,6 +43,7 @@ Let's embark on this exciting journey together and elevate your front-end develo
 ## HTML
 
 ## CSS
+ - Css Loader or Spinner https://css-loaders.com/factory/
 
  - Framework
 
