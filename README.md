@@ -30,9 +30,9 @@ Let's embark on this exciting journey together and elevate your front-end develo
  
 - IDE
   
-  - Vs code:
+  - VS Code: https://code.visualstudio.com/
  
-  - Web Storm: 
+  - Web Storm: https://www.jetbrains.com/webstorm/
 
 - AI:
   - https://codeium.com/
@@ -46,17 +46,16 @@ Let's embark on this exciting journey together and elevate your front-end develo
   - Gitlab:
 
 ## HTML
+  - html5: https://www.w3schools.com/html/
 
 ## CSS
- - Css Loader or Spinner https://css-loaders.com/factory/
+ - Css3: https://www.w3schools.com/css/
+ - Css Loader or Spinner: https://css-loaders.com/factory/
 
  - Framework
 
-   - Taliwind: 
+   - Taliwind: https://tailwindcss.com/
 
-   - Sass: 
-
-   - Less: 
 
 ## ReactJs
   is a library to build user interfaces based on components using Virtual DOM and JSX
@@ -67,7 +66,7 @@ Let's embark on this exciting journey together and elevate your front-end develo
 ### Framework
 - UmiJS: https://github.com/umijs/umi or https://umijs.org
   - Maintainer: Ant Team (Alibaba) 
-  - USE CASE: Client side or Admin dashbord
+  - USE CASE: Client side or Admin dashbord or Micro-front-end
     - PROS: fast development and well document, provide plugins and preset etc.
     - CONS: Learning curve and some case difficult to customize
 
@@ -89,9 +88,9 @@ Let's embark on this exciting journey together and elevate your front-end develo
 
 - Context API: 
 
-  - React Context
+  - React Context: https://react.dev/reference/react/createContext#creating-context
     
-  - Hox
+  - Hox: https://hox.js.org/
 
 - Flux: unidirectional data flow pattern
 
