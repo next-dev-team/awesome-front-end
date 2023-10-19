@@ -34,6 +34,11 @@ Let's embark on this exciting journey together and elevate your front-end develo
  
   - Web Storm: 
 
+- AI:
+  - https://codeium.com/
+  - https://poe.com/
+  - https://www.forefront.ai/
+
 - GIT:
 
   - Github:
