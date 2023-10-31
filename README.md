@@ -107,6 +107,9 @@ Let's embark on this exciting journey together and elevate your front-end develo
   - Jotai: https://jotai.org/
   - Recoil: https://recoiljs.org/
 
+### Vue
+  - Vant: https://github.com/youzan/vant
+
 ### Mobile App
 
 - React Native: https://reactnative.dev/
