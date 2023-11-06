@@ -6,26 +6,31 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 
 ## Development Tools
 
-- Supercharged productivity
+- **Supercharged productivity**
   
    - Raycast: https://www.raycast.com/
  
-- IDE
+- **IDE**
   
   - VS Code: https://code.visualstudio.com/
  
   - Web Storm: https://www.jetbrains.com/webstorm/
 
-- AI:
+- **AI**:
+  
   - https://codeium.com/
   - https://poe.com/
   - https://www.forefront.ai/
 
-- GIT:
-
+- **GIT**:
   - Github: https://github.com/
-    
   - Gitlab: https://gitlab.com/
+  - Bitbucket: https://bitbucket.org/
+ 
+- **Scrum Borad**
+  - Trello: https://trello.com/
+  - Jira: https://www.atlassian.com/software/jira
+  - All git has own board too
 
 ## HTML
   - html5: https://www.w3schools.com/html/
