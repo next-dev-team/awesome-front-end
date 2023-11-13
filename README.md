@@ -4,34 +4,6 @@ Welcome to Awesome Front-End, a meticulously curated collection of resources, to
 
 Front-end development is a dynamic and continuously evolving field, with new technologies and trends surfacing regularly. **Below is a list of recommended** tools and tech stacks that are useful for front-end development.
 
-## Development Tools
-
-- **Supercharged productivity**
-  
-   - Raycast: https://www.raycast.com/
- 
-- **IDE**
-  
-  - VS Code: https://code.visualstudio.com/
- 
-  - Web Storm: https://www.jetbrains.com/webstorm/
-
-- **AI**:
-  
-  - https://codeium.com/
-  - https://poe.com/
-  - https://www.forefront.ai/
-
-- **GIT**:
-  - Github: https://github.com/
-  - Gitlab: https://gitlab.com/
-  - Bitbucket: https://bitbucket.org/
- 
-- **Scrum Borad**
-  - Trello: https://trello.com/
-  - Jira: https://www.atlassian.com/software/jira
-  - All git has own board too
-
 ## HTML
   - html5: https://www.w3schools.com/html/
 
@@ -109,14 +81,3 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 
 - Fluter: https://flutter.dev/
 
-### DOCS
-
-- Dumi: https://github.com/umijs/dumi or https://d.umijs.org
-   - Theme: https://github.com/umijs/dumi
-    - Antd v5: https://github.com/KuangPF/dumi-theme-antd
-
-- Docusaurus: https://docusaurus.io/
-
-- Srorybook: https://storybook.js.org/
-
-- Gitbook: https://www.gitbook.com/
