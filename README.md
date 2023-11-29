@@ -44,9 +44,11 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 - Chakra: https://chakra-ui.com/
 
 ### Icon
+
 - Lucide Icon: https://lucide.dev/icons/
 - Iconify: 
     - https://icones.js.org/
+    - https://icon-sets.iconify.design/
     - https://lucide.dev/icons
 
 ### State Management
