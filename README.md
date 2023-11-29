@@ -78,7 +78,7 @@ Front-end development is a dynamic and continuously evolving field, with new tec
   - Nuxt3: https://nuxt.com/
   - Vant: https://github.com/youzan/vant
 
-### Mobile App
+### Mobile App (Hybrid)
 
 - React Native: https://reactnative.dev/
   - Maintainer: Meta (Facebook)
