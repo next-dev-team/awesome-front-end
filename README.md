@@ -49,7 +49,7 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 - Iconify: 
     - https://icones.js.org/
     - https://icon-sets.iconify.design/
-    - https://lucide.dev/icons
+- Tailwindcss Icon: https://github.com/yunsii/tailwindcss-plugin-iconify
 
 ### State Management
 
