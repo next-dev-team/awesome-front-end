@@ -88,6 +88,10 @@ Front-end development is a dynamic and continuously evolving field, with new tec
   - Maintainer: Meta (Facebook)
     - PROS: Wide comunity and lib, Freedom on development base on own architecture design with pure javasript and JSX (Reqired to know ReactJs)
     - CONS: Design own architecture, mostly is building from sratch
+   - UI:
+    - Universal
+      - Tamagui: https://tamagui.dev/
+      - Nativewind: https://www.nativewind.dev/
 
 - Fluter: https://flutter.dev/
 
