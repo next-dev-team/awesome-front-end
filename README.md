@@ -29,11 +29,10 @@ Front-end development is a dynamic and continuously evolving field, with new tec
   - Maintainer: Ant Team (Alibaba) 
   - USE CASE: Client side or Admin dashbord or Micro-front-end
     - PROS: fast development and well document, provide plugins and preset etc.
-    - CONS: Learning curve and some case difficult to customize
 
 - NextJS: https://github.com/vercel/next.js or https://nextjs.org
   - Maintainer: Vercel 
-  - USE CASE: Client side or Admin dashbord
+  - USE CASE: SSR or any website need fast and SEO
 
 ### UI 
 - Antd: https://github.com/ant-design/ant-design or https://d.umijs.org
