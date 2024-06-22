@@ -15,7 +15,7 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 
    - Taliwind: https://tailwindcss.com/
      - React native: https://github.com/jaredh159/tailwind-react-native-classnames
-    -  React nativ: https://github.com/marklawlor/nativewind
+     - Nativewind: https://github.com/marklawlor/nativewind
 
 
 ## ReactJs
