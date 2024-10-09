@@ -94,6 +94,8 @@ Front-end development is a dynamic and continuously evolving field, with new tec
     - Universal
       - Tamagui: https://tamagui.dev/
       - Nativewind: https://www.nativewind.dev/
+      - https://rnr-docs.vercel.app/
+      - https://gluestack.io/
 
 - Fluter: https://flutter.dev/
 
