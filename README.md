@@ -75,6 +75,11 @@ Front-end development is a dynamic and continuously evolving field, with new tec
   - Jotai: https://jotai.org/
   - Recoil: https://recoiljs.org/
 
+### Electron 
+-https://github.com/next-dev-team/react-next-electron
+- https://github.com/dieharders/ai-text-server
+
+
 ### Vue
   - Vue3: https://vuejs.org/
   - Nuxt3: https://nuxt.com/
