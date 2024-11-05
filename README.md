@@ -74,6 +74,9 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 
   - Jotai: https://jotai.org/
   - Recoil: https://recoiljs.org/
+ 
+### LIB
+  - https://react-slick.neostack.com/
 
 ### Electron 
 -https://github.com/next-dev-team/react-next-electron
