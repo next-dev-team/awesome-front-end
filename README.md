@@ -43,6 +43,7 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 - NextUI: https://nextui.org/
 - https://ui.shadcn.com/docs/components/button
 - Chakra: https://chakra-ui.com/
+- https://skeletongenerator.com/?ref=dailydev
 
 ### Icon
 
