@@ -38,6 +38,7 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 - Antd: https://github.com/ant-design/ant-design or https://d.umijs.org
   - Antd Pro Components: https://procomponents.ant.design/en-US
   - https://ui.lobehub.com/
+- Multiple Tab keep alive https://github.com/d3george/slash-admin/blob/main/src/layouts/dashboard/multi-tabs/index.tsx
 
 - MUI: https://mui.com/
 - NextUI: https://nextui.org/
