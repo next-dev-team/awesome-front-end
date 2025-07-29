@@ -10,6 +10,7 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 ## CSS
  - Css3: https://www.w3schools.com/css/
  - Css Loader or Spinner: https://css-loaders.com/factory/
+ - https://frontendmasters.com/blog/liquid-glass-on-the-web
 
  - Framework
 
