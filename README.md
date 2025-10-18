@@ -61,8 +61,6 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 
   - React Context: https://react.dev/reference/react/createContext#creating-context
     
-  - Hox: https://hox.js.org/
-
 - Flux: unidirectional data flow pattern
 
    - Redux: https://redux.js.org/
