@@ -110,3 +110,5 @@ Front-end development is a dynamic and continuously evolving field, with new tec
 
 - Fluter: https://flutter.dev/
 
+# Repo Inspire
+- Electron Vite https://github.com/YILS-LIN/short-video-factory
