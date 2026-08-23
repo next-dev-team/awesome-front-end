@@ -1,9 +1,11 @@
 # Awesome Front-End
 
-Welcome to Awesome Front-End, a meticulously curated collection of resources, tools, and frameworks designed to empower and inspire front-end developers. Whether you're a seasoned expert or embarking on your journey in front-end development, this repository is dedicated to providing you with an abundance of valuable information.
+Welcome to Awesome Front-End, a meticulously curated collection of resources, tools, and frameworks designed to empower and inspire. this repository is dedicated to providing you with an abundance of valuable information.
 
-Front-end development is a dynamic and continuously evolving field, with new technologies and trends surfacing regularly. **Below is a list of recommended** tools and tech stacks that are useful for front-end development.
-
+## Useful AI Skills
+ - **Search any product**  Price Range, Spec + links, contact Eg. top 3 new phone under 600$ with 2k and snapdragon chip in Phnom Penh
+  - SKILL: https://raw.githubusercontent.com/next-dev-team/awesome-daily-tips/refs/heads/main/SEARCH_PRODUCT_SKILL.md
+  
 ## HTML
   - html5: https://www.w3schools.com/html/
 
