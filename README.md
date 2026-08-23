@@ -7,6 +7,7 @@
   - Usage Supports 3 output formats: Telegram — default, Table — when you ask for table/Markdown table, General — normal detailed recommendation format
     Eg. Top 3 new phone under 600$ with 2k and snapdragon chip in Phnom Penh, Table
   - SKILL: https://raw.githubusercontent.com/next-dev-team/awesome-daily-tips/refs/heads/main/SEARCH_PRODUCT_SKILL.md
+    - GPT: https://chatgpt.com/?prompt=Top 3 new phone under 600$ with 2k and snapdragon chip in Phnom Penh, Table https://raw.githubusercontent.com/next-dev-team/awesome-daily-tips/refs/heads/main/SEARCH_PRODUCT_SKILL.md
   
 ## CSS Framework
    - Taliwind: Web https://tailwindcss.com/
