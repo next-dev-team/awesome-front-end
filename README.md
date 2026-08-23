@@ -1,38 +1,20 @@
-# Awesome Front-End
+# Awesome Daily Tips
 
-Welcome to Awesome Front-End, a meticulously curated collection of resources, tools, and frameworks designed to empower and inspire. this repository is dedicated to providing you with an abundance of valuable information.
+ a meticulously curated collection of resources, website, tools, and frameworks designed to empower and inspire. this repository is dedicated to providing you with an abundance of valuable information.
 
 ## Useful AI Skills
  - **Search any product**  Price Range, Spec + links, contact Eg. top 3 new phone under 600$ with 2k and snapdragon chip in Phnom Penh
   - SKILL: https://raw.githubusercontent.com/next-dev-team/awesome-daily-tips/refs/heads/main/SEARCH_PRODUCT_SKILL.md
   
-## HTML
-  - html5: https://www.w3schools.com/html/
-
-## CSS
- - Css3: https://www.w3schools.com/css/
- - Css Loader or Spinner: https://css-loaders.com/factory/
- - https://frontendmasters.com/blog/liquid-glass-on-the-web
-
- - Framework
-
-   - Taliwind: https://tailwindcss.com/
-     - React native: https://github.com/jaredh159/tailwind-react-native-classnames
-     - Nativewind: https://github.com/marklawlor/nativewind
-
+## CSS Framework
+   - Taliwind: Web https://tailwindcss.com/
+   - Nativewind: Mobile https://github.com/marklawlor/nativewind
 
 ## ReactJs
   is a library to build user interfaces based on components using Virtual DOM and JSX
-- Maintainer: Meta (Facebook)
-    - PROS: Wide comunity and lib, Freedom on development base on own architecture design with pure javasript and JSX
-    - CONS: Learning curve, design own architecture, mostly is building from sratch
 
 ### Framework
-- UmiJS: https://github.com/umijs/umi or https://umijs.org
-  - Maintainer: Ant Team (Alibaba) 
-  - USE CASE: Client side or Admin dashbord or Micro-front-end
-    - PROS: fast development and well document, provide plugins and preset etc.
-
+- 
 - NextJS: https://github.com/vercel/next.js or https://nextjs.org
   - Maintainer: Vercel 
   - USE CASE: SSR or any website need fast and SEO
@@ -42,12 +24,9 @@ Welcome to Awesome Front-End, a meticulously curated collection of resources, to
   - Antd Pro Components: https://procomponents.ant.design/en-US
   - https://ui.lobehub.com/
 - Multiple Tab keep alive https://github.com/d3george/slash-admin/blob/main/src/layouts/dashboard/multi-tabs/index.tsx
-- https://github.com/Tencent/tdesign-react
 - MUI: https://mui.com/
 - NextUI: https://nextui.org/
 - https://ui.shadcn.com/docs/components/button
-- Chakra: https://chakra-ui.com/
-- https://skeletongenerator.com/?ref=dailydev
 
 ### Icon
 
@@ -58,32 +37,14 @@ Welcome to Awesome Front-End, a meticulously curated collection of resources, to
 - Tailwindcss Icon: https://github.com/yunsii/tailwindcss-plugin-iconify
 
 ### State Management
-
-- Context API: 
-
-  - React Context: https://react.dev/reference/react/createContext#creating-context
-    
-- Flux: unidirectional data flow pattern
-
-   - Redux: https://redux.js.org/
    - Zustand: https://github.com/pmndrs/zustand
+   - Tanstack Sore
+   - React Query
 
-- Proxy
 
-   - Valtio: https://github.com/pmndrs/valtio
-   - Mobx: https://mobx.js.org/
-
-- Atomic
-
-  - Jotai: https://jotai.org/
-  - Recoil: https://recoiljs.org/
- 
-### LIB
-  - https://react-slick.neostack.com/
-
-### Electron 
--https://github.com/next-dev-team/react-next-electron
-- https://github.com/dieharders/ai-text-server
+### Desktop Web
+- Electron Vite
+- Tauiri
 
 
 ### Vue
@@ -91,16 +52,10 @@ Welcome to Awesome Front-End, a meticulously curated collection of resources, to
   - Nuxt3: https://nuxt.com/
   - Vant: https://github.com/youzan/vant
 
-- UI
-  - Admin: https://github.com/yudaocode/yudao-ui-admin-vue3
-  - Form Creation: https://github.com/xaboy/form-create-designer
 
 ### Mobile App (Hybrid)
 
 - React Native: https://reactnative.dev/
-  - Maintainer: Meta (Facebook)
-    - PROS: Wide comunity and lib, Freedom on development base on own architecture design with pure javasript and JSX (Reqired to know ReactJs)
-    - CONS: Design own architecture, mostly is building from sratch
    - UI:
     - Universal
       - Tamagui: https://tamagui.dev/
@@ -110,7 +65,5 @@ Welcome to Awesome Front-End, a meticulously curated collection of resources, to
       - https://gluestack.io/
       - https://github.com/heroui-inc/heroui-native
 
-- Fluter: https://flutter.dev/
+- Fluter: https://flutter.dev
 
-# Repo Inspire
-- Electron Vite https://github.com/YILS-LIN/short-video-factory
