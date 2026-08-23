@@ -3,7 +3,9 @@
  a meticulously curated collection of resources, website, tools, and frameworks designed to empower and inspire. this repository is dedicated to providing you with an abundance of valuable information.
 
 ## Useful AI Skills
- - **Search any product**  Price Range, Spec + links, contact Eg. top 3 new phone under 600$ with 2k and snapdragon chip in Phnom Penh
+ - **Search any product**  Price Range, Spec + links, contact 
+  - Usage Supports 3 output formats: Telegram — default, Table — when you ask for table/Markdown table, General — normal detailed recommendation format
+    Eg. Top 3 new phone under 600$ with 2k and snapdragon chip in Phnom Penh, Table
   - SKILL: https://raw.githubusercontent.com/next-dev-team/awesome-daily-tips/refs/heads/main/SEARCH_PRODUCT_SKILL.md
   
 ## CSS Framework
