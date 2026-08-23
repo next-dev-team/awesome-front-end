@@ -6,9 +6,9 @@
  - **Search any product**  Price Range, Spec + links, contact 
   - Usage Supports 3 output formats: Telegram — default, Table — when you ask for table/Markdown table, General — normal detailed recommendation format
     Eg. Top 3 new phone under 600$ with 2k and snapdragon chip in Phnom Penh, Table
-  - SKILL: https://raw.githubusercontent.com/next-dev-team/awesome-daily-tips/refs/heads/main/SEARCH_PRODUCT_SKILL.md
-    - **GPT:** [Open in ChatGPT — Top 3 Phones Under $600](https://chatgpt.com/?prompt=Use%20this%20skill%20and%20follow%20its%20instructions%3A%20https%3A%2F%2Fraw.githubusercontent.com%2Fnext-dev-team%2Fawesome-daily-tips%2Frefs%2Fheads%2Fmain%2FSEARCH_PRODUCT_SKILL.md%0A%0AFind%20the%20Top%203%20new%20phones%20under%20%24600%20with%20a%202K%20display%20and%20Snapdragon%20chip%20in%20Phnom%20Penh.%20Output%20format%3A%20Table.)
-  
+  - SKILL: https://raw.githubusercontent.com/next-dev-team/awesome-daily-tips/refs/heads/main/SEARCH_PRODUCT_SHORTLITS_SKILL.md
+     - **GPT:** [Open in ChatGPT — Top 3 Phones Under $600](https://chatgpt.com/?prompt=Use%20this%20skill%20and%20follow%20its%20instructions%3A%20https%3A%2F%2Fraw.githubusercontent.com%2Fnext-dev-team%2Fawesome-daily-tips%2Frefs%2Fheads%2Fmain%2FSEARCH_PRODUCT_SHORTLITS_SKILL.md%0A%0AFind%20the%20Top%203%20new%20phones%20under%20%24600%20with%20a%202K%20display%20and%20Snapdragon%20chip%20in%20Phnom%20Penh.%20Output%20format%3A%20Table.)
+
 ## CSS Framework
    - Taliwind: Web https://tailwindcss.com/
    - Nativewind: Mobile https://github.com/marklawlor/nativewind
